@@ -1,3 +1,3 @@
-commit after branch checkout
+commit after branch checkout  remot  canvi
 
 remote 1 3  local 3
